@@ -13,5 +13,6 @@ I build small, fast tools for the terminal — mostly in Rust.
   brew install pandasir/tap/gander
   ```
 
-- **[webpilot](https://github.com/pandasir/webpilot)** — 面向 Codex 的本地 Web UI
-  验收与回归插件：真实浏览器验收、可复跑用例、Playwright 导出与测试中心。
+- **[webpilot](https://github.com/pandasir/webpilot)** — a local Web UI acceptance and
+  regression plugin for Codex: acceptance runs against a real browser, rerunnable
+  test cases, Playwright export, and a test center.
